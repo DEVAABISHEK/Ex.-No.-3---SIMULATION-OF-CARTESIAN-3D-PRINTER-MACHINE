@@ -52,13 +52,17 @@
 
 ## Output:
 ### X Axis Assembly
-![Screenshot 2024-10-14 235002](https://github.com/user-attachments/assets/251c280d-5977-43fb-bc0a-55018323aa9c)
+![WhatsApp Image 2024-11-23 at 10 40 45_88483cea](https://github.com/user-attachments/assets/0437b273-8487-4e7b-a0b3-5aca0fd0a962)
+
 ### Y Axis Assembly
-![Screenshot 2024-10-15 000155](https://github.com/user-attachments/assets/8eaa23c5-a28b-4907-b305-eb717ef49d76)
+![WhatsApp Image 2024-11-23 at 10 38 54_536355d3](https://github.com/user-attachments/assets/c3a63006-8c88-4fee-a3fc-697872d0312a)
+
 ### Z Axis Assembly
-![Screenshot 2024-10-16 222141](https://github.com/user-attachments/assets/bb04bab9-99d0-4e4d-b9f8-b9e4b45fa465)
+![WhatsApp Image 2024-11-23 at 10 38 54_660dad84](https://github.com/user-attachments/assets/e3328117-e455-47d7-aff9-5df20584c53c)
+
 ### Completed Assembly
-![Screenshot 2024-10-16 221937](https://github.com/user-attachments/assets/6c3c625a-81d4-4592-9764-0310d72d356b)
+![WhatsApp Image 2024-11-23 at 10 38 55_45717700](https://github.com/user-attachments/assets/8a1237e8-c678-414c-8774-08cc35f6945f)
+
 ### Playing with Axis
 ![Screenshot 2024-10-14 230413](https://github.com/user-attachments/assets/17ee0936-43af-4480-a5e4-5a4bd8562d64)
 
